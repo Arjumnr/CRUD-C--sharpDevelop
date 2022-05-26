@@ -1,4 +1,4 @@
-# CRUD-C--sharpDevelop
+# CRUD-C#-sharpDevelop
 ## name database = "tb_mahasiswa_sharp"
 [db_mahasiswa_sharp.zip](https://github.com/Arjumnr/CRUD-C--sharpDevelop/files/8781352/db_mahasiswa_sharp.zip)
 
