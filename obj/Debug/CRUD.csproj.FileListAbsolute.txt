@@ -1,0 +1,8 @@
+C:\Users\24ind\OneDrive\Dokumen\SharpDevelop Projects\CRUD\CRUD\obj\Debug\CRUD.csprojResolveAssemblyReference.cache
+C:\Users\24ind\OneDrive\Dokumen\SharpDevelop Projects\CRUD\CRUD\obj\Debug\CRUD.MainForm.resources
+C:\Users\24ind\OneDrive\Dokumen\SharpDevelop Projects\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.Cache
+C:\Users\24ind\OneDrive\Dokumen\SharpDevelop Projects\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\24ind\OneDrive\Dokumen\SharpDevelop Projects\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\24ind\OneDrive\Dokumen\SharpDevelop Projects\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\24ind\OneDrive\Dokumen\SharpDevelop Projects\CRUD\CRUD\obj\Debug\CRUD.pdb
+C:\Users\24ind\OneDrive\Dokumen\SharpDevelop Projects\CRUD\CRUD\bin\Debug\MySql.Data.dll
